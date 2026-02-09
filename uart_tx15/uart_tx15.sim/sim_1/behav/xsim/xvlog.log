@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado project/uart_tx15/uart_tx15.srcs/sources_1/new/uart_tx15.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_tx15
+INFO: [VRFC 10-311] analyzing module uart_tx
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado project/uart_tx15/uart_tx15.srcs/sim_1/new/uarttx15_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_tx15_tb

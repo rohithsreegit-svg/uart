@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/vivado project/uart_tx15/uart_tx15.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/vivado project/uart_tx15/uart_tx15.srcs/sim_1/new/uarttx15_tb.v,1770178250,verilog,,,,uart_tx15_tb,,,,,,,,
+D:/vivado project/uart_tx15/uart_tx15.srcs/sources_1/new/uart_tx15.v,1770179655,verilog,,D:/vivado project/uart_tx15/uart_tx15.srcs/sim_1/new/uarttx15_tb.v,,uart_tx;uart_tx15,,,,,,,,
